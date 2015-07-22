@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+componentWillUnmount() {
+
+}
+]]></content>
+	<tabTrigger>rccwum</tabTrigger>
+	<scope>source.js</scope>
+  <description>Populate componentWillUnmount method</description>
+</snippet>

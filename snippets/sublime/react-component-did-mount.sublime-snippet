@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+componentDidMount() {
+
+}
+]]></content>
+	<tabTrigger>rccdm</tabTrigger>
+	<scope>source.js</scope>
+  <description>Populate componentDidMount method</description>
+</snippet>

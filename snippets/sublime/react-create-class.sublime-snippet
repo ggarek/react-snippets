@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+import React, { PropTypes as t } from 'react';
+
+/**
+ * @class $1
+ */
+export default class $1 extends React.Component {
+   render() {
+    return <div></div>;
+  }
+}
+
+/**
+ * PropTypes
+ */
+$1.propTypes = {};
+
+/**
+ * Default Props
+ */
+$1.defaultProps = {};
+
+]]></content>
+	<tabTrigger>rccl</tabTrigger>
+	<scope>source.js</scope>
+  <description>Populate React es6 class template</description>
+</snippet>
